@@ -60,4 +60,4 @@ Finished Ferani Shades mods remain in the separate [Icarus_Mods repository](http
 
 ## Project Status
 
-This is the local review edition. Repository publication and GitHub Pages are intentionally deferred until the contents and navigation have been reviewed.
+The first public edition is live. The library will continue to grow as experiments produce verified rules, practical recipes, and useful dead ends. GitHub Pages remains optional while the Markdown structure settles.

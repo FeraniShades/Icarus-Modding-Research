@@ -17,10 +17,11 @@
 - [x] Run privacy and forbidden-file scans.
 - [x] Validate every relative Markdown link.
 - [x] Test every PowerShell script parser and safe read-only entry point.
-- [ ] Add repository description and topics.
-- [ ] Initialize Git locally and inspect the first commit contents.
-- [ ] Create the public repository under `FeraniShades`.
-- [ ] Push the reviewed first edition.
+- [x] Add the repository description.
+- [ ] Add repository topics.
+- [x] Initialize Git locally and inspect the first commit contents.
+- [x] Create the public repository under `FeraniShades`.
+- [x] Push the reviewed first edition.
 - [ ] Protect the default branch and block force pushes.
 
 ## Community Launch
