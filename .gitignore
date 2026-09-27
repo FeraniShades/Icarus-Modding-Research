@@ -1,0 +1,50 @@
+# Extracted or cooked game content
+*.uasset
+*.uexp
+*.umap
+*.ubulk
+*.pak
+*.sig
+*.ucas
+*.utoc
+*.psk
+*.pskx
+*.fbx
+
+# Mod packages belong in the separate release repository
+*.EXMOD
+*.EXMODZ
+
+# Generated indexes and large local evidence
+generated/
+output/
+exports/
+snapshots/
+backups/
+*.csv
+
+# Local configuration, logs, and temporary files
+*.log
+*.tmp
+*.bak
+*.ini
+*.user
+*.suo
+*.zip
+*.7z
+*.rar
+.vs/
+.vscode/
+bin/
+obj/
+tmp/
+temp/
+
+# Personal or machine-specific files
+*.xlsx
+*.docx
+*.pdf
+!docs/recipes/walkthroughs/*.pdf
+desktop.ini
+Thumbs.db
+.DS_Store
